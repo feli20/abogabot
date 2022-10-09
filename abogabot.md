@@ -17,6 +17,7 @@ Página web para un despacho de abogados que quiere automatizar las demandas de 
 	- Debe de ser responsive para poderla ver desde el celular.
 	- La preferencia de colores es azul marino y blanco, pero acepta propuestas.
 ### 1.1. Buyer Persona
+![Buyer Persona](https://github.com/feli20/abogabot/blob/main/imagenes/buyer_persona.png)
 ## 2. Publico Objetivo
 ## 3. UX
 ## 4. UI
