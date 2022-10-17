@@ -18,6 +18,7 @@ Página web para un despacho de abogados que quiere automatizar las demandas de 
 	- La preferencia de colores es azul marino y blanco, pero acepta propuestas.
 ### 1.1. Buyer Persona
 ![Buyer Persona](https://github.com/feli20/abogabot/blob/main/imagenes/buyer_persona.png)
-## 2. Publico Objetivo
+## 2. Público Objetivo
+![Publico Objetivo](https://github.com/feli20/abogabot/blob/main/imagenes/publico_objetivo.jpg)
 ## 3. UX
 ## 4. UI
