@@ -19,6 +19,6 @@ Página web para un despacho de abogados que quiere automatizar las demandas de 
 ### 1.1. Buyer Persona
 ![Buyer Persona](https://github.com/feli20/abogabot/blob/main/imagenes/buyer_persona.png)
 ## 2. Público Objetivo
-![Publico Objetivo](https://github.com/feli20/abogabot/blob/main/imagenes/publico_objetivo.jpg)
+![Público Objetivo](https://github.com/feli20/abogabot/blob/main/imagenes/publico_objetivo.png)
 ## 3. UX
 ## 4. UI
